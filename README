@@ -1,0 +1,55 @@
+----
+Add-in for MS Office to Provide Integration with Alfresco
+----
+
+Documentation and source code is available on the project web site:
+
+http://code.google.com/p/alfresco-ms-office-plugin/
+
+This project is licensed under the terms of the Apache license. Details are in
+the file COPYING.
+
+
+----
+State of the Source
+----
+Instead of waiting until an engineer was available to clean up the source, we
+are posting it quickly and hoping someone steps up to make it useful.
+
+Immediate Tasks:
+* If you edit a file that still has [BRIEF DESCRIPTION OF FILE CONTENTS] in the
+  header notice, please update it with a good description.
+* If you edit a file that does not have a copyright notice, please add it.
+* Get the various projects to build.
+* Add compatibility for Alfresco 4.
+
+
+----
+Template Copyright Notice
+----
+Each file should have a copyright notice similar to:
+
+/*
+* Copyright [yyyy-yyyy] Alfresco Software Limited.
+* [OTHER COPYRIGHT NOTICES]
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*     http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*
+* This file is part of an unsupported extension to Alfresco.
+*
+* [BRIEF DESCRIPTION OF FILE CONTENTS]
+*/
+
+Where [OTHER COPYRIGHT NOTICES] is a list of copyright statements for
+non-Alfresco contributors to the file, one per line, in the format
+[yyyy-yyyy] [NAME] [BRIEF DESCRIPTION]
