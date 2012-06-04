@@ -23,6 +23,14 @@ Immediate Tasks:
 * Get the various projects to build.
 * Add compatibility for Alfresco 4.
 
+The AlfrescoOffice2007 project was halted partway through implementation and is therefore incomplete. 
+
+
+----
+Notes
+----
+* If prompted for an auth password, it's "alfresco".
+
 
 ----
 Template Copyright Notice
